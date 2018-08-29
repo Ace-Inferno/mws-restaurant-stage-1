@@ -98,6 +98,7 @@
 
   #restaurants-list li {
     padding:0px;
+    width:270px;
   }
   #restaurant-img{
     height:30%;
@@ -129,8 +130,4 @@
   }
 }
 
-@media screen and (min-width: 1200px){
-  #restaurants-list li {
-    width:270px;
-  }
 }
